@@ -14,6 +14,7 @@ namespace ClassBankAcctBonus
             BankAccount acct4 = new BankAccount(700, -6);
             BankAccount acct5 = new BankAccount(50, .07m);
 
+
             // Testing our functions 
             Console.WriteLine(acct2);
             acct1.CalculateInterest();
